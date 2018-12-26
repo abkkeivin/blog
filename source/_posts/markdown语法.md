@@ -2,6 +2,13 @@
 title: markdown语法
 date: 2018-12-25 09:47:13
 tags:
+- hexo
+- github
+- 域名
+categories:
+- 笔记
+- 教程
+cover_picture: /images/bkk.jpg
 ---
 # 标题相关
 ## 二级标题
@@ -29,6 +36,7 @@ tags:
 
 # 分割线
 三个或三个以上的 - 或者*
+
 ---
 
 # 超链接
@@ -45,7 +53,7 @@ src:图片链接/路径
 ![民国](/表情包/l.jpg)
 
 # 图片超链接
-[![民国](/表情包/l.jpg)](http://www.baidu.com)
+[![民国](/表情包/l.jpg)](https://weibo.com/u/5282159078?is_all=1)
 
 # 代码片段
 ```javascript

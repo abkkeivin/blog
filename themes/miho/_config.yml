@@ -41,12 +41,12 @@ menu:
 #    target: true         Whether to jump out | 是否跳出
 social:
   home:
-    title: hanghang
-    url: //xxxx.com
+    title: 航航
+    url: //abkkevin.xyz
     target: true
   github:
     title: Github
-    url: //github.com/wongminho
+    url: //github.com/kevinhanghang
     target: true
   weibo:
     title: Weibo
